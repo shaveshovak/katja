@@ -1,0 +1,48 @@
+{
+    "blogs": [
+      {
+        "Title": "Harry Potter Tour",
+        "VisitingDate": "2018/07/07",
+        "City": "London",
+        "Location": "HAS TO BE ADDED",
+        "Impression": "C:\Users\katja\Desktop\HCS\final-project\public\images\London.jpg" ,
+        "Body": "A journey remembering Harry Potter",
+        "Author": "Katja",
+        "AuthorImage" : "C:\Users\katja\Desktop\HCS\final-project\public\images\Katja r.png",
+        "ID": 1
+      },
+      {
+        "Title": "Workation",
+        "VisitingDate": "2019/06/011",
+        "City": "Amsterdam",
+        "Location": "HAS TO BE ADDED",
+        "Impression": "C:\Users\katja\Desktop\HCS\final-project\public\images\Amsterdam.jpg" ,
+        "Body": "Meet and Greet at Virtuagym comparing with sightseeing in Amsterdam",
+        "Author": "Katja",
+        "AuthorImage" : "C:\Users\katja\Desktop\HCS\final-project\public\images\Katja r.png",
+        "ID": 2
+      },
+      {
+      "Title": "Dream of Louvre",
+        "VisitingDate": "2019/02/18",
+        "City": "Paris",
+        "Location": "HAS TO BE ADDED",
+        "Impression": "C:\Users\katja\Desktop\HCS\final-project\public\images\Paris.jpg" ,
+        "Body": "A dream comes true with vistiting the Louvre",
+        "Author": "Katja",
+        "AuthorImage" : "C:\Users\katja\Desktop\HCS\final-project\public\images\Katja r.png",
+        "ID": 1
+      },
+      {
+        "Title": "Away from Home",
+        "VisitingDate": "2022/06/09",
+        "City": "Tunis",
+        "Location": "HAS TO BE ADDED",
+        "Impression": "C:\Users\katja\Desktop\HCS\final-project\public\images\Tunis.jpg" ,
+        "Body": "Far away from home, leaving struggle behind just focusing on work and exotic beach",
+        "Author": "Katja",
+        "AuthorImage" : "C:\Users\katja\Desktop\HCS\final-project\public\images\Katja r.png",
+        "ID": 3
+      }
+    ]
+  }
